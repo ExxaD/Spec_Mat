@@ -1,2 +1,2 @@
 # Spec_Mat
- Works for spec. mat
+ Works for discrete mathematics
